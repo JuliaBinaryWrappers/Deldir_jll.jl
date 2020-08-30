@@ -1,0 +1,10 @@
+name = "Deldir_jll"
+uuid = "0cb025a2-29c7-561e-a277-a82c5b779c13"
+version = "0.1.15+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

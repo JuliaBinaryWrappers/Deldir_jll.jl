@@ -1,0 +1,113 @@
+[[Deldir]]
+arch = "aarch64"
+git-tree-sha1 = "f4991f549a94eda7ba4394d8a24f1f2ada135a14"
+libc = "glibc"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "50fb296f5135d079cf531e726223a5c829abab4a47ab98ce1acb36906b5ecf1f"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.aarch64-linux-gnu.tar.gz"
+[[Deldir]]
+arch = "aarch64"
+git-tree-sha1 = "d418443a525a276da05ac002a6d74154f031db85"
+libc = "musl"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "628319ebc6acec41cdb86edbf479105db476ba113df42ed0d81fd7c638f9b9cc"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.aarch64-linux-musl.tar.gz"
+[[Deldir]]
+arch = "armv7l"
+git-tree-sha1 = "c0545c2464197a0c1a90b2fd7057184213b8aa90"
+libc = "glibc"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "824d61d27b17531aeba978a4da175fff56b0567820f22c398bf94d9ffa8cb26b"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.armv7l-linux-gnueabihf.tar.gz"
+[[Deldir]]
+arch = "armv7l"
+git-tree-sha1 = "a23846bacd7b41df4dddf02223e182f9526cdb31"
+libc = "musl"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "5cdb93e6ed2889ea7b49c95fc4ed70869cf433a7378d3ee0aaed5fb2ed827c73"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.armv7l-linux-musleabihf.tar.gz"
+[[Deldir]]
+arch = "i686"
+git-tree-sha1 = "8627e95a3852025a447a3d70644ccb7ac895eb7f"
+libc = "glibc"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "055e2c37e3e0e6efae0aac27b02c790d12e6e14ab9c17049b9a353509540eb5a"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.i686-linux-gnu.tar.gz"
+[[Deldir]]
+arch = "i686"
+git-tree-sha1 = "4abaa341bb22a779de5a77fcc3b54493618d150a"
+libc = "musl"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "e8d79fe6d294d71375ad23d462b72d0a947fa4850911024ab4fa4c7a4cb43833"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.i686-linux-musl.tar.gz"
+[[Deldir]]
+arch = "i686"
+git-tree-sha1 = "17030b93b7975b29fa1f3f7bb442cd607433420d"
+os = "windows"
+
+    [[Deldir.download]]
+    sha256 = "9f602b36a45888103e113c108c95f9a05263ed37289030a40b36a11ae5df47bf"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.i686-w64-mingw32.tar.gz"
+[[Deldir]]
+arch = "powerpc64le"
+git-tree-sha1 = "476126ef210322284e6015e9e7353e2c42374d8c"
+libc = "glibc"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "6139f7ac68300fddd08ebf02c5dc082b2532ca9fe7901fceb16d37c0975643a7"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.powerpc64le-linux-gnu.tar.gz"
+[[Deldir]]
+arch = "x86_64"
+git-tree-sha1 = "f0b7b6f9976e1776793825452cbfe1759fa7df18"
+os = "macos"
+
+    [[Deldir.download]]
+    sha256 = "23c31624592e5ecea6602f98c131876541024bb3f344cb1f0f8da053952b741e"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.x86_64-apple-darwin14.tar.gz"
+[[Deldir]]
+arch = "x86_64"
+git-tree-sha1 = "05d594ad4a08e09a2d824b83225902e4f9bed458"
+libc = "glibc"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "e8b58bb96a801b0fae5b3c8caccab0f8f40b6ac8516e963f6225089b3b52c4cd"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.x86_64-linux-gnu.tar.gz"
+[[Deldir]]
+arch = "x86_64"
+git-tree-sha1 = "0044eee9b37f872aad8059a2fe0a1e181146b6c1"
+libc = "musl"
+os = "linux"
+
+    [[Deldir.download]]
+    sha256 = "19a106736612aef9ed4ddaf5336789ee1101e1c02160a1c4eee8b73e130ec5c4"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.x86_64-linux-musl.tar.gz"
+[[Deldir]]
+arch = "x86_64"
+git-tree-sha1 = "ec6fba171b76ae545332729ee9c3b515403e53d8"
+os = "freebsd"
+
+    [[Deldir.download]]
+    sha256 = "d3ceaefff28fb1fc95c603f891d05b07453afc01aa1a814f2a2d86bb2ed851dd"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.x86_64-unknown-freebsd11.1.tar.gz"
+[[Deldir]]
+arch = "x86_64"
+git-tree-sha1 = "bddc278375ac613e759971477cc451764919318c"
+os = "windows"
+
+    [[Deldir.download]]
+    sha256 = "020c0383361c55159cda6f270b9ed34b19b3a8e40d68bd6ef2652322ca51d199"
+    url = "https://github.com/JuliaBinaryWrappers/Deldir_jll.jl/releases/download/Deldir-v0.1.15+0/Deldir.v0.1.15.x86_64-w64-mingw32.tar.gz"
